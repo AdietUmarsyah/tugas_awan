@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-saya-426408",
+  "private_key_id": "5238932e68454fafb7aeeb9f59183b1d40a82db5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC4b6Vvt7ReQr5H\nMeNZdZgfYVRLxRJjUvDeqNNoiOxpg3xsny/f9apXHykbiMauL76+FewWnGgf22ZY\nl6DNS/q0qRe6oveAHUTq53yWnuFWrfN0G7xc52hK48uvi88WuZbXF6WQBneb1X9k\nj2PxzyuWuzPSNIxsJPAYzZ47+dectyqPhPWObkSf6rTWvdZfkrUym1MaN91jXbbO\nU7FoAGtBb9gjI/ayS4Dhco9h2QtK1D+iroTNaEdcAmaJIr4DVyYtKsLP/3ZWJiTa\n6l+ZisVMvzFdgc8OgOF5aojySEKwQwPZ2v6pWmR0iNNg+fvgjbfIiTuYX14M9Dwk\nGr65dMovAgMBAAECggEAFf5/v2IsM47IsNDK3eDfco6MG4+1cPwea/m8tvCX0MAK\nAcy8oXvjA7SxlZj//ccFJhc91OHIq6k2+/BJEB0Jbqs41dxCoO0x9MQE4ClePJSj\nPatju73U0BQjjBxOESsHSUCGporpjz8si/TAOcE3iigU4Ue8SdaLKJ9h8/ZdYftk\nl2BkPQlZv+7ZcVCKSkt5/ak/h2yZFpVW3bRJYvyy+DsWiDEL16qiQQ6u43x7eciK\nGPq8e6NVtEGt6xlFfL5FDUaLE4iDrpoOcL9DVllFus6RrbbSFQnWO+w5QT6CMEnq\n+gbl7/YCJXSWepAs6Ao+Jikf7F8JKHrp+LK6u2jTkQKBgQDmKfhjHM6bEhHJUYss\nrRM+GWnVZnmosAWaqKcqguINHk/aprkPtiE29WcQxqbBChud9wYOvn7G+ezWChOp\nd5RIBNrzTmOSqOe3tYkbqe+g42hgcwYAVGnGNDaNEP++HJNoORKhEtSnAH4qpvVL\nDjBPZ7L1gSNP7cgMU0ciN4F1YwKBgQDNI6Io903P0JtFh1xBFy0QNPk+FuyjIyjZ\nmKHKdj9MyihOnR88CkzcJ84W6qlcG2wjk0KbdBdAJp6LeFZyk84qGd5gIgo82JPt\n6rDQ+YWm0mk1iJH1E/nH5yf6el8NA0WLu3NEL0x6lTXgouos9dtQ6WNn/7pbOUQV\nfhVh6c1HxQKBgQCvfHCVoPEl6rEE/ddPSObTAi1fN7Kqmwqq0Mwj7YbM2b+oxlVz\nVTod3R2n/M5HgJ1t41oLA9NFgmjBCQ3UuAemoY0O1UW2HHIP76mKHhdGZBzA7PI2\nbiX3qPeutrdHDCKX5Gv/w4u/iPCpNILxpu/OmxInfT6fQny0aQpjXE6oYQKBgQCn\nF61QfRAuhBbVrYohosUb/GpAft/FijAN/dtbVLH+1HO8hRMaDrHIacvessm8ssGE\nwMByaz89C7f8lsqjjW1SsbuGxnNcWHU2SAI6VeTdm2oDJvjsjZbZk5nm1qJxsQaG\n6Orc0UIUX1GBZnIkqSY5Y8GKxqx+/chNUWQNWynQmQKBgQDN33a9q8sY75I0vgL1\nwBEUjCnBl7LxHkr7ANFE8aIzp0ARd48CaCAK4IgOd/JYLDaur4/PN8UB9NWbsS+r\nxpNxdM19NQzqOPTg33oJu/BSPRKv9qlOaVrPjlDYA+p9I0KccP+Cgub/P6vPB70P\nXR/XPrRkpLx8Umf2TJdH4yhJpw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "adiet-715@project-saya-426408.iam.gserviceaccount.com",
+  "client_id": "106626045652205173300",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adiet-715%40project-saya-426408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
